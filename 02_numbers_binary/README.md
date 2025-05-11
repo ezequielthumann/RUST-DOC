@@ -1,0 +1,1 @@
+Este módulo cubre los aspectos fundamentales sobre cómo Rust maneja los valores numéricos y cómo trabajar con ellos de manera segura y eficiente.
